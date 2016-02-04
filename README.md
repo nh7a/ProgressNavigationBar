@@ -1,5 +1,7 @@
 # ProgressNavigationBar
 
+[![](https://raw.githubusercontent.com/nh7a/ProgressNavigationBar/master/pnavbar.gif)](https://raw.githubusercontent.com/nh7a/ProgressNavigationBar/master/pnavbar.gif)
+
 ## Installation
 
 Copy ProgressNavigationBar.swift to your project.
